@@ -1,0 +1,6 @@
+streamlit>=1.22.0
+transformers>=4.30.0
+torch>=2.0.0
+sqlparse>=0.4.4
+accelerate>=0.18.0
+bitsandbytes>=0.39.0 
